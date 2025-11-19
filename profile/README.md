@@ -41,21 +41,22 @@ In 2021, Sixto founded IAM Digital Services SL, a consultancy specializing in Id
 
 ## Current sponsors
 
-#### [<img class="circle" src="https://avatars.githubusercontent.com/u/34724717" width="26" height="26" alt="@serpapi">](https://serpapi.com) <sup>SerpApi</sup>
+#### [<img class="circle" src="https://avatars.githubusercontent.com/u/34724717" width="26" height="26" alt="@serpapi">](https://serpapi.com) [<sup>SerpApi</sup>](https://github.com/serpapi)
 *A real-time API to access Google search results. It handle proxies, solve captchas, and parse all rich structured data for you*
 <hr>
 
-#### [<img class="circle" src="https://avatars.githubusercontent.com/u/9919" width="26" height="26" alt="@github">](https://github.com/) <sup>Github</sup>
+#### [<img class="circle" src="https://avatars.githubusercontent.com/u/9919" width="26" height="26" alt="@github">](https://github.com/) [<sup>Github</sup>](https://github.com/github)
 *The complete developer platform to build, scale, and deliver secure software.*
 <hr>
 
-#### [<img alt="84codes" src="https://avatars.githubusercontent.com/u/5353257" width="26" height="26">](https://www.84codes.com) <sup>84codes</sup>
+#### [<img alt="84codes" src="https://avatars.githubusercontent.com/u/5353257" width="26" height="26">](https://www.84codes.com) [<sup>84codes</sup>](https://github.com/84codes)
 *Simplifying Message Queuing and Streaming. Leave server management to the experts, so you can focus on building great applications.*
 <hr>
 
-#### [<img class="circle" src="https://avatars.githubusercontent.com/u/739212" width="26" height="26" alt="@maykinmedia">](https://www.maykinmedia.nl/) <sup>Maykin</sup>
+#### [<img class="circle" src="https://avatars.githubusercontent.com/u/739212" width="26" height="26" alt="@maykinmedia">](https://www.maykinmedia.nl/) [<sup>Maykin</sup>](https://github.com/maykinmedia)
 *Awesome Webdevelopment. Develop open source webapplications with Python and Django.*
 <hr>
 
-#### [<img class="circle avatar-user" src="https://avatars.githubusercontent.com/u/8343178?s=52&amp;v=4" width="26" height="26" alt="@ssddanbrown">](https://github.com/ssddanbrown) <sup>Dan Brown</sup>
+#### [<img class="circle avatar-user" src="https://avatars.githubusercontent.com/u/8343178?s=52&amp;v=4" width="26" height="26" alt="@ssddanbrown">](https://danb.me/) [<sup>Dan Brown</sup>](https://github.com/ssddanbrown)
 *UK based full stack web developer with a love of open source software.*
+
